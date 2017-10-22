@@ -1,0 +1,13 @@
+body {
+	background: #999 ;
+}
+h1 {
+	background: #222;
+	color: white ;
+	margin-right: 950px;
+	border-radius: 10px;
+	border: 2px dashed white ;
+}
+.colour {
+	color:green;
+}
